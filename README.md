@@ -2,7 +2,6 @@
 
 A simple web-based quiz application to test your English vocabulary knowledge.
 
-![Quiz Screenshot](./screenshots/preview.png)
 
 ---
 
