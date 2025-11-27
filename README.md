@@ -30,25 +30,11 @@ A simple web-based quiz application to test your English vocabulary knowledge.
 
 ---
 
-## 🌐 Demo
-
-**Live Demo:** [https://[your-username].github.io/VocabularyQuizGenerator](https://[your-username].github.io/VocabularyQuizGenerator)
-
-*(Replace `[your-username]` with your GitHub username after deployment)*
-
----
 
 ## 💻 Installation
 
 ### Option 1: Clone from GitHub
 
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/VocabularyQuizGenerator.git
-
-# Navigate to the project folder
-cd VocabularyQuizGenerator/04_Implementation/src
-```
 
 ### Option 2: Download ZIP
 
@@ -202,9 +188,9 @@ This project is created for educational purposes as part of a Software Engineeri
 
 ## 👤 Author
 
-- **Name:** [ใส่ชื่อนักศึกษา]
-- **Student ID:** [ใส่รหัสนักศึกษา]
-- **Course:** Software Engineering Final Project
+- **Name:** [นพเชฏฐ์]
+- **Student ID:** [1670703303]
+- **Course:** CS436
 
 ---
 
